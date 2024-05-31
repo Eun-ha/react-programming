@@ -8,7 +8,5 @@ function LikeButton() {
   );
 }
 
-console.log("0000");
-
 const domContainer = document.querySelector("#react-root");
 ReactDOM.render(React.createElement(LikeButton), domContainer);
