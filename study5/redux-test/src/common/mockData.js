@@ -1,8 +1,12 @@
 const friends = [
-  { name: "쯔위", age: 15 },
-  { name: "쯔위2", age: 15 },
-  { name: "쯔위3", age: 15 },
-  { name: "쯔위4", age: 15 },
+  { name: "쯔위", age: 13 },
+  { name: "수지", age: 15 },
+  { name: "나디아", age: 20 },
+  { name: "아만다", age: 23 },
+  { name: "케빈", age: 25 },
+  { name: "롤", age: 28 },
+  { name: "윤아", age: 30 },
+  { name: "티파니", age: 35 },
 ];
 
 const timelines = [
